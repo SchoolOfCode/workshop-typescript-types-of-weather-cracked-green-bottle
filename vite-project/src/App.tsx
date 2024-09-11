@@ -15,17 +15,50 @@ function App() {
    
    
 
+  
+  async function handleCord (){
 
+    const url= `http://api.openweathermap.org/geo/1.0/direct?q=${inputValue}&appid=48404bfdde79b99ab720c89112005316`
+
+    try {
+    const response= await fetch(url);
+    const jsonData= await response.json();
+    setAPIValues(jsonData);
+    setCoords({lat:jsonData[0].lat, lon:jsonData[0].lon});
+    console.log(coords)
+    }
+
+    catch (error){
+      console.error(error.message)
+    }
+
+  }
+
+  async function getWeather(){
+    const url=`https://api.openweathermap.org/data/2.5/weather?lat=${coords.lat}&lon=${coords.lon}&appid=48404bfdde79b99ab720c89112005316`
+
+    try {
+      const response= await fetch(url)
+      const jsonData= await response.json();
+      console.log(jsonData)
+    }
+
+    catch (error) {
+      console.error(error.message)
+    }
+  }
 
   async function handleclick(event: any) {
     event.preventDefault();
-    console.log("initialize our API");
-    await fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${inputValue}&appid=48404bfdde79b99ab720c89112005316`)
-   .then(response => response.json())
-   .then(data => {setAPIValues(data); setCoords({lat:data[0].lat, lon:data[0].lon}); console.log(coords)})
+    await handleCord();
+    await getWeather();
 
-   
   }
+
+
+    
+
+
 
   function handleChange(event: any) {
     setInputValue(event.target.value);
