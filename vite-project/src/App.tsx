@@ -1,12 +1,30 @@
 import "./App.css";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 function App() {
   const [inputValue, setInputValue] = useState("");
+  const [apiValues, setAPIValues] = useState("");
+  const [coords, setCoords] = useState("")
 
-  function handleclick(event: any) {
+// useEffect (() => {
+//   fetch('http://api.openweathermap.org/geo/1.0/direct?q=${inputValue}&appid=48404bfdde79b99ab720c89112005316')
+//    .then(response => response.json())
+//    .then(data => {setAPIValues(data); console.log(apiValues)})
+
+// }, [inputValue])
+   
+   
+
+
+
+  async function handleclick(event: any) {
     event.preventDefault();
-    console.log("initializate our API");
+    console.log("initialize our API");
+    await fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${inputValue}&appid=48404bfdde79b99ab720c89112005316`)
+   .then(response => response.json())
+   .then(data => {setAPIValues(data); setCoords({lat:data[0].lat, lon:data[0].lon}); console.log(coords)})
+
+   
   }
 
   function handleChange(event: any) {
