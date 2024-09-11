@@ -1,0 +1,78 @@
+{
+  "node": {
+    "4fe38efe5b21d800832289c42906c488c8e052d7": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/_not-found/page": "rsc",
+        "app/register/page": "rsc"
+      }
+    },
+    "6bc13ae2752a0d1dc665c54b468cfc16e087c5d2": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/_not-found/page": "rsc",
+        "app/register/page": "rsc"
+      }
+    },
+    "7c6180c1070a14f5b113ac8d89f3dbe2f02ece0f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/_not-found/page": "rsc",
+        "app/register/page": "rsc"
+      }
+    },
+    "9c5870e7d6ea73e97cb72d17c57b8c4acec54ebe": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/_not-found/page": "rsc",
+        "app/register/page": "rsc"
+      }
+    },
+    "a2bd1b48311a6d38ce3a208db3933912f114cfa2": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/_not-found/page": "rsc",
+        "app/register/page": "rsc"
+      }
+    },
+    "ea7da6551d3681e5bfd6425289815b20cc8921a1": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chamsa%5C%5CDesktop%5C%5CSOC%5C%5CCyber%20Security%5C%5Cworkshop-typescript-types-of-weather-cracked-green-bottle%5C%5Cvite-project%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_4%22%2C%22signOutAction%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/_not-found/page": "rsc",
+        "app/register/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Ctk1uqVJyMFjoaMEJlNaKD7Lizvu64AFuFrGgbkwI0g="
+}
